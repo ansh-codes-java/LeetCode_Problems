@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
