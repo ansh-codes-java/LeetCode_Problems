@@ -18,4 +18,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 | [0619-biggest-single-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
