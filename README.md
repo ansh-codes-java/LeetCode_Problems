@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
@@ -39,6 +40,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
