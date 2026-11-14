@@ -25,6 +25,7 @@
 | [0619-biggest-single-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
+| [1484-group-sold-products-by-the-date](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 ## Stack
 |  |
 | ------- |
