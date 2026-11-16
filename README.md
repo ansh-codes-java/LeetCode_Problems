@@ -80,9 +80,18 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
