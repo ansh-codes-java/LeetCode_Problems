@@ -12,6 +12,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
