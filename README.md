@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
@@ -83,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
