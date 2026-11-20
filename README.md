@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -93,6 +94,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
