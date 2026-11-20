@@ -127,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
