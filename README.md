@@ -24,6 +24,7 @@
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -57,6 +58,7 @@
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
@@ -106,6 +108,7 @@
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
