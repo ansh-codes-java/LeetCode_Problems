@@ -43,6 +43,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -60,6 +61,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -133,4 +135,9 @@
 | [0092-reverse-linked-list-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
