@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -40,6 +41,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
