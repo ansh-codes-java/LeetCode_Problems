@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Linked List
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
