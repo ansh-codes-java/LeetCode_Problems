@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -150,4 +151,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
