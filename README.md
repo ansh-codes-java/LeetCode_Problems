@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -193,4 +196,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
