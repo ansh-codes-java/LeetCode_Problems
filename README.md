@@ -17,6 +17,7 @@
 | [0541-reverse-string-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
@@ -137,6 +139,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -173,10 +176,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
