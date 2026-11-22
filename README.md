@@ -15,6 +15,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
