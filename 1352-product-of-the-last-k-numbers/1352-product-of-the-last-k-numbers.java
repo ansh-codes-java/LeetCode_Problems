@@ -7,11 +7,10 @@ class ProductOfNumbers {
     public void add(int num) {
         if(num == 0)
                     list.clear();
-        else if(list.size() == 0)
-                    list.add(num);
-        else{
-            list.add(list.get(list.size()-1)*num);
-        }
+        else{            
+            int pre = list.size() == 0?1:list.get(list.size()-1);
+            list.add(pre*num);
+        }    
     }
     
     public int getProduct(int k) {
