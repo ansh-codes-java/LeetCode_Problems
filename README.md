@@ -29,6 +29,7 @@
 | [0503-next-greater-element-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
@@ -116,6 +118,7 @@
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -226,4 +230,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
