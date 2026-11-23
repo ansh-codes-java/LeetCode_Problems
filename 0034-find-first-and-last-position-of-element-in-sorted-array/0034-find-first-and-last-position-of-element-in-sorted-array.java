@@ -26,8 +26,8 @@ class Solution {
             }
             else low = mid+1;
         }
-        if(lb==ub) return new int[]{-1,-1};
-        return new int[]{lb,ub-1};
+        
+        return (lb==ub)? new int[]{-1,-1}: new int[]{lb,ub-1};
     }
   
 }
