@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -216,6 +217,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
