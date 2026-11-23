@@ -26,7 +26,7 @@ class Solution {
             }
             else low = mid+1;
         }
-        if(lb == nums.length || lb==ub) return new int[]{-1,-1};
+        if(lb==ub) return new int[]{-1,-1};
         return new int[]{lb,ub-1};
     }
   
