@@ -33,6 +33,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Linked List
@@ -219,6 +221,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
