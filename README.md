@@ -24,6 +24,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0162-find-peak-element](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
