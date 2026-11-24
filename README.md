@@ -39,6 +39,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -123,6 +125,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
