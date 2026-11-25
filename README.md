@@ -42,6 +42,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## Database
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0202-happy-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0162-find-peak-element](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,4 +249,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
