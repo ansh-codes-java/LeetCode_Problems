@@ -43,6 +43,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Database
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ansh-codes-java/LeetCode_Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
