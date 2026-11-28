@@ -4,72 +4,85 @@ class Solution {
         int maxFactor = 0;
         long minPrice = Long.MAX_VALUE;
 
-        for (int[] item : items) {
-            maxFactor = Math.max(maxFactor, item[0]);
-            minPrice = Math.min(minPrice, item[1]);
+        // Pass 1: find maxFactor and global minPrice
+        for (int i = 0; i < n; i++) {
+            int f = items[i][0];
+            long p = items[i][1];
+            if (f > maxFactor) maxFactor = f;
+            if (p < minPrice) minPrice = p;
         }
 
+        // Count occurrences of each factor
         int[] freq = new int[maxFactor + 1];
-        for (int[] item : items) {
-            freq[item[0]]++;
+        for (int i = 0; i < n; i++) {
+            freq[items[i][0]]++;
         }
 
-        // Count how many items have a factor strictly greater than f and divisible by f
+        // multiplesAbove[f] = number of items with factor strictly > f and divisible by f
         int[] multiplesAbove = new int[maxFactor + 1];
         for (int f = 1; f <= maxFactor; f++) {
-            if (freq[f] == 0) continue;
+            int countF = freq[f];
+            if (countF == 0) continue;
             int sum = 0;
-            for (int mult = f * 2; mult <= maxFactor; mult += f) {
+            for (int mult = f << 1; mult <= maxFactor; mult += f) {
                 sum += freq[mult];
             }
             multiplesAbove[f] = sum;
         }
 
-        // Each item i can grant at most 1 free copy for each distinct j != i
-        // where items[i][0] divides items[j][0].
-        long[][] pairs = new long[n][2]; // [price, gain]
+        // Only items with price < 2 * minPrice and gain > 0 can ever provide
+        // a 2-item copy cheaper than buying two single copies of minPrice.
+        long priceLimit = (minPrice > Long.MAX_VALUE / 2) ? Long.MAX_VALUE : (minPrice << 1);
+        long[] candPrice = new long[n];
+        long[] candGain = new long[n];
+        int candCount = 0;
+
         for (int i = 0; i < n; i++) {
+            long p = items[i][1];
+            if (p >= priceLimit) continue;
             int f = items[i][0];
-            long price = items[i][1];
             long gain = (long) (freq[f] - 1) + multiplesAbove[f];
-            pairs[i][0] = price;
-            pairs[i][1] = gain;
+            if (gain > 0) {
+                candPrice[candCount] = p;
+                candGain[candCount] = gain;
+                candCount++;
+            }
         }
 
-        // Sort items by price ascending
-        Arrays.sort(pairs, Comparator.comparingLong(a -> a[0]));
+        // Sort candidate indices by price ascending without creating boxed objects
+        Integer[] order = new Integer[candCount];
+        for (int i = 0; i < candCount; i++) {
+            order[i] = i;
+        }
+        Arrays.sort(order, (a, b) -> Long.compare(candPrice[a], candPrice[b]));
 
         long remBudget = budget;
         long totalItems = 0;
         long lastTakenPrice = -1;
 
-        for (int i = 0; i < n; i++) {
-            long price = pairs[i][0];
-            long gain = pairs[i][1];
+        for (int idx = 0; idx < candCount; idx++) {
+            int i = order[idx];
+            long p = candPrice[i];
+            if (remBudget < p) break;
 
-            // A 2-item copy is only worthwhile if its price is strictly less than
-            // buying two single copies of the cheapest item (2 * minPrice).
-            if (price >= 2L * minPrice) break;
-            if (gain == 0) continue;
-            if (remBudget < price) break;
-
-            long take = Math.min(gain, remBudget / price);
+            long take = Math.min(candGain[i], remBudget / p);
             if (take > 0) {
-                totalItems += take * 2L;
-                remBudget -= take * price;
-                lastTakenPrice = price;
+                totalItems += take << 1;
+                remBudget -= take * p;
+                lastTakenPrice = p;
             }
         }
 
-        // Option A: Keep all taken 2-item copies and spend leftover budget on minPrice
+        // Option A: Keep all 2-item copies and buy single copies of minPrice with leftover budget
         long best = totalItems + (remBudget / minPrice);
 
-        // Option B: Refund 1 copy of the most expensive 2-item purchase if doing so
-        // allows buying at least 3 single copies of minPrice instead of 2 items
+        // Option B: Refund one 2-item copy if that unlocks >= 3 single copies of minPrice
         if (lastTakenPrice != -1) {
             long refundedBudget = remBudget + lastTakenPrice;
             long candidate = (totalItems - 2L) + (refundedBudget / minPrice);
-            best = Math.max(best, candidate);
+            if (candidate > best) {
+                best = candidate;
+            }
         }
 
         return (int) best;
